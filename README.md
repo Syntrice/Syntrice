@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&fontSize=24&fontAlign=37&color=0277bd&fontColor=ffffff&height=150&section=header&text=Sam%20Maughan&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&fontSize=24&fontAlign=37&color=0277bd&fontColor=ffffff&height=150&section=header&text=Sam%20Maughan&fontSize=90)
 
 ## About Me
 
