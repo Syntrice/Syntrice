@@ -2,18 +2,19 @@
 
 I am a Junior Software Developer with experience in a variety of tech stacks. I am familiar with a variety of languages including C#, Python and JavaScript, and have worked with relational database systems such as Microsoft SQL Server and SQLite.
 
-## Portfolio
-
-### Record Shop Web App & API
-
-![Image](https://picsum.photos/600/300?random=1)
-
-### Contact Manager Console Application
-![Image](https://picsum.photos/600/300?random=2)
-
 ## Languages
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,html,css,javascript)](https://skillicons.dev)
+
+## Portfolio
+
+### Record Shop Web App & API (TODO)
+
+![Image](https://picsum.photos/600/300?random=1)
+
+### Contact Manager Console Application (TODO)
+
+![Image](https://picsum.photos/600/300?random=2)
 
 ## Contact
 
