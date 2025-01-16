@@ -8,8 +8,7 @@ I am a Junior Software Developer with experience in a variety of tech stacks. I 
 
 ## Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=syntrice&show_icons=true&theme=dark&icon_color=0077b5&hide=stars&hide_rank=true#gh-dark-mode-only)](https://github.com/syntrice)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=syntrice&show_icons=true&theme=default&icon_color=0077b5&border_radius&hide=stars&hide_rank=true#gh-light-mode-only)](https://github.com/syntrice)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=syntrice&show_icons=true&theme=transparent&icon_color=0077b5&hide=stars&hide_rank=true)](https://github.com/syntrice))
 
 ## Contact
 
