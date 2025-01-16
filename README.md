@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Junior Software Developer with experience in a variety of tech stacks. I am familiar with a variety of languages including `C#`, `Python` and `JavaScript`, and have worked with relational database systems such as `Microsoft SQL Server` and `SQLite`. 
+I am a Junior Software Developer with experience in a variety of tech stacks. I am familiar with a variety of languages including C#, Python and JavaScript, and have worked with relational database systems such as Microsoft SQL Server and SQLite. 
 
 ## Languages
 
