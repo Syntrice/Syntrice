@@ -13,13 +13,13 @@ I am a Junior Software Developer with experience in a variety of tech stacks. I 
 
 ## Portfolio
 
-### 🛒 [Record Shop Web App / API](https://github.com/Syntrice/record-shop)
+- 🛒 [Record Shop Web App / API](https://github.com/Syntrice/record-shop)
+- 📑 [Contact Manager Console Application](https://github.com/Syntrice/contact-manager)
 
-![Image](https://picsum.photos/600/300?random=1)
+<!-- ![Image](https://picsum.photos/600/300?random=1) -->
 
-### 📑 [Contact Manager Console Application](https://github.com/Syntrice/contact-manager)
 
-![Image](https://picsum.photos/600/300?random=2)
+<!-- ![Image](https://picsum.photos/600/300?random=2) -->
 
 ## Stats
 
