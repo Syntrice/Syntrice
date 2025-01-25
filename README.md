@@ -1,6 +1,6 @@
 ## About Me
 
-I am a Junior Software Developer, working with a variety of tech stacks. I am familiar with a range of languages including C#, Python and JavaScript. I also have experience developing full-stack web apps using frameworks including ASP.NET and Blazor.
+I am a Junior Software Developer who works with a variety of tech stacks. I am familiar with a range of languages including C#, Python and JavaScript. I also have experience developing full-stack web apps using frameworks including ASP.NET and Blazor.
 
 Besides software development, I also like to write music. You can check out some of my compositions [here](https://syntrice.com/music).
 
