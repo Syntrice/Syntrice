@@ -13,8 +13,8 @@ I am a Junior Software Developer with experience in a variety of tech stacks. I 
 
 ## Portfolio
 
-- 🛒 [Record Shop Web App / API](https://github.com/Syntrice/record-shop)
-- 📑 [Contact Manager Console Application](https://github.com/Syntrice/contact-manager)
+- 🛒 [Syntrice Record Shop - A Full-Stack Web Application](https://github.com/Syntrice/syntrice-record-shop)
+- 📑 [Syntrice Contact Manager - A .NET Generic Host Console Application](https://github.com/Syntrice/syntrice-contact-manager)
 
 <!-- ![Image](https://picsum.photos/600/300?random=1) -->
 
