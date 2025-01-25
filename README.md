@@ -1,8 +1,8 @@
 ## About Me
 
-I am a Junior Software Developer with experience in a variety of tech stacks. I am familiar with a variety of languages including C#, Python and JavaScript, and have worked with relational database systems such as Microsoft SQL Server and SQLite.
+I am a Junior Software Developer with experience in a variety of tech stacks. I am familiar with a variety of languages including C#, Python and JavaScript. I also have experience developing full-stack web apps using frameworks including ASP.NET and Blazor.
 
-I also like to compose music in my spare time. You can check out some of my compositions [here](https://syntrice.com/music).
+Besides software development, I also like to write music. You can check out some of my compositions [here](https://syntrice.com/music).
 
 ## Languages
 
