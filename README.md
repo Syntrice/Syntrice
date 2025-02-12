@@ -17,6 +17,7 @@ Besides software development, I also like to write music. You can check out some
 
 - 🛒 [Syntrice Record Shop - A Full-Stack Web Application](https://github.com/Syntrice/syntrice-record-shop)
 - 📑 [Syntrice Contact Manager - A .NET Generic Host Console Application](https://github.com/Syntrice/syntrice-contact-manager)
+- 🎬 [Spreeview - Social Network and review website for TV shows (Group Project)](https://github.com/nc-team-inertia/spreeview)
 
 <!-- ![Image](https://picsum.photos/600/300?random=1) -->
 
